@@ -1,0 +1,6 @@
+{
+  "name": "OpenTV VN & US - Trình Xem Tivi Bản Quyền Mở & Đóng Gói Blogger",
+  "description": "Ứng dụng xem truyền hình trực tuyến miễn phí hợp pháp các kênh Việt Nam & Hoa Kỳ, hỗ trợ phát m3u8 localhost, đóng gói HTML xem cục bộ và xuất template CSS cho Google Blogger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
